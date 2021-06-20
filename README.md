@@ -1,0 +1,1 @@
+This is duba-sh's first git project!
